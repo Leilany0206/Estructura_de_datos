@@ -2,6 +2,8 @@
 
 Es un algoritmo sencillo de implementar que organiza una lista seleccionando repetidamente el elemento más pequeño (o más grande, si es descendente) y colocándolo en su posición correcta. Este proceso se repite hasta que toda la lista está ordenada.
 
+Video recomendado: https://www.youtube.com/watch?v=Ns4TPTC8
+
 ---
 
 ## Funcionamiento
@@ -15,8 +17,6 @@ Es un algoritmo sencillo de implementar que organiza una lista seleccionando rep
 ![Alt Text](https://miro.medium.com/v2/resize:fit:200/format:webp/1*8guImFhbPKA4Q9k84sNaaA.gif)
 
 ---
-
-
 
 ## Time Complexity
 
@@ -49,8 +49,6 @@ Es un algoritmo sencillo de implementar que organiza una lista seleccionando rep
 * **Radix Sort** : Puede ser más rápido, pero solo con ciertos tipos de datos (enteros o cadenas con longitud fija).
 
 ---
-
-
 
 ## Fuentes
 
