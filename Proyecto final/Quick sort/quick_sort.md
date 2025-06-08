@@ -2,6 +2,8 @@
 
 El algoritmo de ordenamiento **Quick Sort** es una de las técnicas más importantes y eficientes. Utiliza el paradigma de **"divide y vencerás"**, y se caracteriza por realizar el trabajo pesado **antes** de las llamadas recursivas, a diferencia de Merge Sort.
 
+Video recomendado: https://www.youtube.com/watch?v=ywWBy6J5gz8
+
 ---
 
 ## Funcionamiento
