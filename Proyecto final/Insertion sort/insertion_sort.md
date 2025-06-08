@@ -2,6 +2,8 @@
 
 Es una técnica de ordenamiento que permite organizar una colección de elementos en **orden ascendente o descendente**. Es una de las metodologías de ordenamiento fundamentales, sirviendo de base para algoritmos más rápidos y eficientes.
 
+Video recomendado: https://www.youtube.com/watch?v=ROalU379l3U
+
 ---
 
 ## Funcionamiento
