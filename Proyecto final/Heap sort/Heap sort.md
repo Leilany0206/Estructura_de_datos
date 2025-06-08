@@ -2,6 +2,8 @@
 
 Es una técnica de ordenamiento basada en comparaciones que utiliza una estructura de datos especial llamada **heap**. Es uno de los algoritmos que son fundamento para soluciones más rápidas y eficientes.
 
+Video recomendado: https://www.youtube.com/watch?v=nms-xZlnHlM
+
 ---
 
 ## Funcionamiento
