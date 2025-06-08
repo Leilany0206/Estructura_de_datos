@@ -2,6 +2,8 @@
 
 Es una técnica fundamental y altamente eficiente, conocida por su consistencia en el rendimiento. Junto con Quick Sort, es uno de los algoritmos clave basados en el paradigma de **"divide y vencerás"**.
 
+Video recomendado: https://www.youtube.com/watch?v=XaqR3G_NVoo
+
 ---
 
 ## Funcionamiento
